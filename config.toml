@@ -1,0 +1,16 @@
+base_url = "https://mfrr.xyz"
+compile_sass = true
+build_search_index = true
+theme = "anemone"
+
+[markdown]
+highlight_code = true
+
+[extra]
+list_pages = true
+header_nav = [
+  { url = "/", name_en = "/home/" },
+  { url = "/about", name_en = "/about/" },
+  { url = "/journal", name_en = "/journal/" },
+  { url = "/blog", name_en = "/blog/" }
+]
