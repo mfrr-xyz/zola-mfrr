@@ -11,8 +11,7 @@ highlight_code = true
 list_pages = true
 header_nav = [
   { url = "/", name_en = "/home/" },
-  { url = "/blogs", name_en = "/blogs/" },
-  { url = "/photos", name_en = "/photos/" },
-  { url = "/about", name_en = "/about/" },
+  { url = "https://bsky.app/profile/mufar94.bsky.social", name_en = "/blogs/" },
+  { url = "https://www.flickr.com/photos/201413722@N03/albums/", name_en = "/photos/" },
 ]
 twitter_card = true
