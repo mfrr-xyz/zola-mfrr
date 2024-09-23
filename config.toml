@@ -15,3 +15,5 @@ header_nav = [
   { url = "https://www.flickr.com/photos/201413722@N03/albums/", name_en = "/photos/" },
 ]
 twitter_card = true
+
+favicon = "favicon.ico"
