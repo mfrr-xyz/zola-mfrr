@@ -17,7 +17,7 @@ I am also a former chess player, a graphic designer, an illustrator, an IT techn
 Sometimes, I do personal tutoring and mentoring for IT related topics. These days, I am looking for new things to discover, preferrably something less-likely related to coding or technology I have worked on.
 
 Countries I have been to:  
-Southeast Asia: 🇲🇾 🇧🇳 🇸🇬 🇮🇩 🇹🇭  
+Southeast Asia: 🇲🇾 🇧🇳 🇸🇬 🇮🇩 🇹🇭 🇻🇳  
 East Asia: 🇯🇵  
 Europe: 🇩🇪 🇳🇱 🇧🇪 🇫🇷 🇩🇰 🇬🇧 🇨🇭  
 Middle East: 🇸🇦 🇰🇼 🇴🇲 🇹🇷 🇶🇦  
@@ -32,7 +32,7 @@ I use X(Twitter) to check for news and events. Sometimes I browse reddit anonymo
 ## Links
 ### Projects / Repositories
 - [Fiverr](https://fiverr.com/qwesdme) (rated 4.9/5.0)
-- [GitHub](https://github.com/mufar94)
+- [GitHub](https://github.com/mfrr-xyz)
 - [GitLab](https://git.rlab.io/users/mustaien)
 
 ### Socials
