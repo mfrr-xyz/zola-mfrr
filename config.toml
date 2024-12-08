@@ -9,10 +9,13 @@ highlight_code = true
 
 [extra]
 list_pages = true
+
 header_nav = [
   { url = "/", name_en = "/home/" },
-  { url = "https://bsky.app/profile/mufar94.bsky.social", name_en = "/blogs/" },
-  { url = "https://www.flickr.com/photos/201413722@N03/albums/", name_en = "/photos/" },
+  { url = "/posts", name_en = "/posts/" },
+  { url = "/portfolio", name_en = "/portfolio/" },
+  { url = "/links", name_en = "/links/" },
+  { url = "/about", name_en = "/about/" },
 ]
 twitter_card = true
 
