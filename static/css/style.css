@@ -106,3 +106,7 @@ body{
 .webring {
     margin: .375rem;
 }
+
+blockquote{
+    padding: 0 0 0 1rem;
+}
