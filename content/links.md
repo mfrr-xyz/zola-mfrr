@@ -12,7 +12,7 @@ title = "Links"
 
 - [LinkedIn](https://linkedin.com/in/rahim-rahmat/)
 - [X/Twitter](https://x.com/mfrr_xyz)
-- [Bluesky](https://bsky.app/profile/mfrr-xyz.bsky.social)
+- [Bluesky](https://bsky.app/profile/mfrr.xyz)
 - [Mastodon](https://mastodon.social/@mufar94)
 
 ### Albums

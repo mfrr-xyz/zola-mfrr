@@ -37,6 +37,7 @@ title = "Posts"
             
             postElement.innerHTML = authorInfo + postContent;
             feedContainer.appendChild(postElement);
+            feedContainer.appendChild(document.createElement('hr'));
         });
     }
 
